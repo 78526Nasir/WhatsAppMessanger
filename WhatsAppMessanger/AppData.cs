@@ -1,0 +1,7 @@
+﻿namespace WhatsAppMessanger
+{
+}
+
+namespace WhatsAppMessanger
+{
+}
