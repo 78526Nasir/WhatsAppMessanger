@@ -8,10 +8,3 @@ The Basic Feature of this Project:
   # Sign In 
   # Sending Message
 
-
-/**
-** File Description:
-*  
-*
-*
-**/
